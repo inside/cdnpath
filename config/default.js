@@ -1,5 +1,5 @@
 module.exports = {
   appConfig: {
-    ASSETS_PUBLIC_PATH: '//foo-lol.dev/',
+    ASSETS_PUBLIC_PATH: '//default-cdn.dev/',
   },
 };
