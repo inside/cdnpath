@@ -6,6 +6,7 @@
   "license": "MIT",
   "scripts": {
     "build": "roc build",
+    "postbuild": "./bin/generate-webpack-stats.js",
     "dev": "roc dev",
     "lint": "eslint .",
     "start": "roc start",
